@@ -1,0 +1,20 @@
+.header{
+    background: url('../img/images4.jpg') no-repeat fixed;
+    background-size: cover;
+    min-height: 500px;
+    position: relative;
+}
+.bg-color
+{
+    background-color: rgba(0, 6, 0, 0.9);
+    min-height: 500px;
+}
+.espacio{
+	margin-bottom: 2%;
+	margin-top: 2%;
+}
+
+input{
+	margin-bottom: 2%;
+	margin-top: 2%;
+}
